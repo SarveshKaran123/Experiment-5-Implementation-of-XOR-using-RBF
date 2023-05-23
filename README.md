@@ -69,8 +69,8 @@ edge joining 2nd node (peak2 output) to the output node
 bias edge
 ## PROGRAM:
 ```
-Developed By:Ragul VK
-Reg.No:212221240043
+Developed By:SARVESHKARAN VK
+Reg.No:212221230089
 ```
 ```
 import numpy as np
